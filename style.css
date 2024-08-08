@@ -261,7 +261,7 @@ a {
 /* -- hero-secton start -- */
 .hero-section {
   position: relative;
-  background-image: url('file:///C:/Users/Wajahat/Documents/AERO%20Mind%20&%20Body/assets/img/banner.png');
+  background-image: url('banner.png');
   background-size: cover;
   background-position: center;
   display: flex;
